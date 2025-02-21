@@ -9,6 +9,10 @@
   <em>
     I'm 16 years old and, every day I'm studying and working!
   </em>
+<p>
+  <em>
+    This is my school account.
+  </em>
 </p>
 
 <br>
@@ -61,11 +65,12 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <br>
-| My stats                                                                                                                                                         | Top languagens                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=rafaelbarretocruz&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbarretocruz&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+<br>
+
+![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=rafaelbarretocruz&show_icons=true&hide_border=true&count_private=true&theme=jolly)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbarretocruz&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) 
 
 <br>
+
 
 <div>
   <a href="https://api.whatsapp.com/send/?phone=%2B5511955529102&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"target="_blank"></a>
